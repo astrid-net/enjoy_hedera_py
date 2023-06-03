@@ -1,2 +1,2 @@
 # enjoy_hedera_py
-Some code to test our approach to Hedera Network.
+Some code to correctly approach to Hedera Network through Python SDK Wrapper.
